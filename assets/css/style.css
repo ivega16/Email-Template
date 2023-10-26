@@ -77,9 +77,12 @@ img {
 .two-columns, .padding {
     padding: 20px 0;
 }
-.two-columns, .content {
+.two-columns {
     font-size: 15px;
     line-height: 20px;
+    text-align: left;
+}
+.alignment {
     text-align: left;
 }
 .button {
