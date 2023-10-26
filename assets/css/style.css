@@ -86,8 +86,12 @@ img {
 .alignment {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 16px;
 
+}
+.fontused{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
 }
 .iconstyle{
     text-decoration: none;
